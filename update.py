@@ -18,14 +18,17 @@ You will be given a JSON array of repositories. Your task is to return a single,
 - If a fitting category already exists, please use it.
 - The number of objects in your returned array must be the same as the input array.
 - Your entire response must be only the JSON array and nothing else.
+- Do not be overly specific, we do not want too many categories. Try to keep it to a maximum of 10 categories.
 
+You do you not have to strictly follow my examples.
+Example Categories: Anti-Bot Bypass, Web Automation, Reverse Engineering, Misc, Web Frameworks, Account Generators, TLS Fingerprinting, Other Curated Lists.
 Existing Categories: {', '.join(existing_categories) if existing_categories else 'None'}
 
 Here is the JSON array of repositories to categorize:
 {repos_json_string}
 """
     try:
-        model = genai.GenerativeModel("gemini-2.5-flash")  # type: ignore
+        model = genai.GenerativeModel("gemini-2.5-pro")  # type: ignore
         response = model.generate_content(prompt)
 
         cleaned_json_text = response.text.strip().lstrip("```json").rstrip("```")
