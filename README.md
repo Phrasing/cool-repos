@@ -7,7 +7,6 @@
 | | | | |
 | **`Anti-Bot Bypass`** | | | |
 | [`Akamai`](https://github.com/i7solar/Akamai) | Go | Akamai 1.75 Cookie Generator for _abck and ak_bmsc | 2023-05-23 |
-| [`akamai-sensor-data-tools`](https://github.com/klenne/akamai-sensor-data-tools) | JavaScript | This repository serves as a comprehensive resource for my studies of akamai solutions. | 2024-11-09 |
 | [`akamai2.0-sensor_data`](https://github.com/xiaoweigege/akamai2.0-sensor_data) | JavaScript | sensor_data, akamai-bm-telemetry, _abck bypass | 2025-06-24 |
 | [`chrome-recaptcha-harvester`](https://github.com/benastahl/chrome-recaptcha-harvester) | Python | Chrome Recaptcha Harvester supporting V2 and V3 | 2025-06-17 |
 | [`Cloudflare-Cookie-Bypass`](https://github.com/seadhy/Cloudflare-Cookie-Bypass) | Python | Cloudflare __cf_bm cookie ( currently called cf_clearance ) bypass | 2025-05-06 |
@@ -37,7 +36,8 @@
 | | | | |
 | **`Reverse Engineering`** | | | |
 | [`Akamai-2.0-Deobfuscator`](https://github.com/manudeobs/Akamai-2.0-Deobfuscator) | JavaScript |  | 2023-12-03 |
-| [`hooker`](https://github.com/CreditTone/hooker) | JavaScript | 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps. | 2025-06-25 |
+| [`akamai-sensor-data-tools`](https://github.com/klenne/akamai-sensor-data-tools) | JavaScript | This repository serves as a comprehensive resource for my studies of akamai solutions. | 2024-11-09 |
+| [`hooker`](https://github.com/CreditTone/hooker) | JavaScript | 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps. | 2025-07-04 |
 | [`Imperva-Reverse`](https://github.com/botswin/Imperva-Reverse) | JavaScript |  | 2025-07-04 |
 | [`obfuscator-io-deobfuscator`](https://github.com/ben-sb/obfuscator-io-deobfuscator.git) | TypeScript | A deobfuscator for scripts obfuscated by Obfuscator.io | 2025-06-20 |
 | | | | |
@@ -46,7 +46,7 @@
 | [`adyen_df_python`](https://github.com/benastahl/adyen_df_python) | Python | Generates Adyen device fingerprint | 2024-04-30 |
 | [`Chromium_FingerPrint_Tutorial`](https://github.com/xiaoweigege/Chromium_FingerPrint_Tutorial) |  | Chromium指纹浏览器开发教程，帮助你了解Chromium内核，并且开发出一套基础的指纹浏览器。 | 2025-06-04 |
 | [`nginx-ssl-ja3`](https://github.com/fooinha/nginx-ssl-ja3) | C | nginx module for SSL/TLS ja3 fingerprint. | 2025-03-21 |
-| [`tls-client`](https://github.com/bogdanfinn/tls-client) | Go | net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. | 2025-06-17 |
+| [`tls-client`](https://github.com/bogdanfinn/tls-client) | Go | net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.  | 2025-06-17 |
 | | | | |
 | **`Web Automation`** | | | |
 | [`discord-server-cloner`](https://github.com/xKiian/discord-server-cloner) | Python | scrape a whole discord server in seconds (with every channel, every role and every emoji) | 2023-06-04 |
@@ -54,15 +54,12 @@
 | [`Haven-AIO`](https://github.com/Slikcodez/Haven-AIO) | Go | Haven AIO is a request based Hibbett bot in Golang. It has allowed users to secure hundreds of sneakers swiftly during drops and restocks. It was developed by primarily @Slikcodez, but also @cyrusnaficy and @StefanAraujo contributed | 2023-05-08 |
 | [`human_mouse`](https://github.com/sarperavci/human_mouse) | Python | 🎯 Ultra-realistic human mouse movements using bezier curves and spline interpolation. Natural cursor automation. | 2025-05-01 |
 | [`kick-unofficial-api`](https://github.com/sarperavci/kick-unofficial-api.git) | Python | 🛡️ Unofficial Kick.com API wrapper with automatic bypass protection. | 2025-01-27 |
+| [`MediaCrawler`](https://github.com/NanmiCoder/MediaCrawler) | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫 | 2025-07-04 |
 | [`OxyMouse`](https://github.com/xiaoweigege/OxyMouse) | Python | Mouse Movement Algorithms | 2024-09-25 |
 | [`ResyBot`](https://github.com/TCWTEAM/ResyBot) | Python | Resy Bot with captcha bypass, proxy support, no rate-limiting | 2024-12-29 |
 | | | | |
 | **`Web Frameworks`** | | | |
-| [`scrapy`](https://github.com/scrapy/scrapy) | Python | Scrapy, a fast high-level web crawling & scraping framework for Python. | 2025-07-02 |
-| [`{name}`]({url}) | {lang} | {desc} | {date} |
-| [`{name}`]({url}) | {lang} | {desc} | {date} |
-| [`{repo_name}`]({repo_data['url']}) | {lang_text} | {repo_data['desc'] or ''} | {repo_data['last_updated'] or ''} |
-| [`{repo_name}`]({repo_data['url']}) | {lang_text} | {repo_data['desc'] or ''} | {repo_data['last_updated'] or ''} |
+| [`scrapy`](https://github.com/scrapy/scrapy) | Python | Scrapy, a fast high-level web crawling & scraping framework for Python. | 2025-07-04 |
 
 
 <details>
@@ -273,6 +270,8 @@ def main():
 
 ```python
 {source_code}
+```
+</details>
 """
     md_content += "\n\n" + source_block
     with open(readme_path, "w", encoding="utf-8") as f:
@@ -286,3 +285,5 @@ def main():
 if __name__ == "__main__":
     main()
 
+```
+</details>
