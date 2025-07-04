@@ -29,6 +29,11 @@
 | [`turnstile-rs`](https://github.com/manudeobs/turnstile-rs.git) | Rust |  | 2025-04-25 |
 | [`utmvc-rs`](https://github.com/manudeobs/utmvc-rs) | Rust |  | 2025-04-24 |
 | | | | |
+| **`Developer Tools`** | | | |
+| [`ruff`](https://github.com/astral-sh/ruff) | Rust | An extremely fast Python linter and code formatter, written in Rust. | 2025-07-04 |
+| [`rye`](https://github.com/astral-sh/rye) | Rust | a Hassle-Free Python Experience | 2025-07-03 |
+| [`ty`](https://github.com/astral-sh/ty) | Python | An extremely fast Python type checker and language server, written in Rust. | 2025-07-02 |
+| | | | |
 | **`Misc`** | | | |
 | [`ants`](https://github.com/panjf2000/ants) | Go | 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go. | 2025-04-12 |
 | [`go-graphql-client`](https://github.com/hasura/go-graphql-client) | Go | Package graphql provides a GraphQL client implementation. | 2025-06-20 |
