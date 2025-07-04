@@ -30,6 +30,7 @@
 | [`utmvc-rs`](https://github.com/manudeobs/utmvc-rs) | Rust |  | 2025-04-24 |
 | | | | |
 | **`Developer Tools`** | | | |
+| [`big-list-of-naughty-strings`](https://github.com/minimaxir/big-list-of-naughty-strings) | Python | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | 2024-04-18 |
 | [`ruff`](https://github.com/astral-sh/ruff) | Rust | An extremely fast Python linter and code formatter, written in Rust. | 2025-07-04 |
 | [`rye`](https://github.com/astral-sh/rye) | Rust | a Hassle-Free Python Experience | 2025-07-03 |
 | [`ty`](https://github.com/astral-sh/ty) | Python | An extremely fast Python type checker and language server, written in Rust. | 2025-07-02 |
