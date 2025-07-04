@@ -45,6 +45,7 @@
 | [`adyen-risk`](https://github.com/AzureFlow/adyen-risk) | JavaScript | Generates Ayden's device fingerprint (dfValue). | 2024-03-24 |
 | [`adyen_df_python`](https://github.com/benastahl/adyen_df_python) | Python | Generates Adyen device fingerprint | 2024-04-30 |
 | [`Chromium_FingerPrint_Tutorial`](https://github.com/xiaoweigege/Chromium_FingerPrint_Tutorial) |  | Chromium指纹浏览器开发教程，帮助你了解Chromium内核，并且开发出一套基础的指纹浏览器。 | 2025-06-04 |
+| [`nginx-ssl-ja3`](https://github.com/fooinha/nginx-ssl-ja3) | C | nginx module for SSL/TLS ja3 fingerprint. | 2025-03-21 |
 | [`tls-client`](https://github.com/bogdanfinn/tls-client) | Go | net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. | 2025-06-17 |
 | | | | |
 | **`Web Automation`** | | | |
@@ -59,6 +60,8 @@
 | **`Web Frameworks`** | | | |
 | [`scrapy`](https://github.com/scrapy/scrapy) | Python | Scrapy, a fast high-level web crawling & scraping framework for Python. | 2025-07-02 |
 | [`{name}`]({url}) | {lang} | {desc} | {date} |
+| [`{name}`]({url}) | {lang} | {desc} | {date} |
+| [`{repo_name}`]({repo_data['url']}) | {lang_text} | {repo_data['desc'] or ''} | {repo_data['last_updated'] or ''} |
 | [`{repo_name}`]({repo_data['url']}) | {lang_text} | {repo_data['desc'] or ''} | {repo_data['last_updated'] or ''} |
 
 
