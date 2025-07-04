@@ -37,6 +37,7 @@
 | **`Reverse Engineering`** | | | |
 | [`Akamai-2.0-Deobfuscator`](https://github.com/manudeobs/Akamai-2.0-Deobfuscator) | JavaScript |  | 2023-12-03 |
 | [`akamai-sensor-data-tools`](https://github.com/klenne/akamai-sensor-data-tools) | JavaScript | This repository serves as a comprehensive resource for my studies of akamai solutions. | 2024-11-09 |
+| [`hooker`](https://github.com/CreditTone/hooker) | JavaScript | 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps. | 2025-06-25 |
 | [`obfuscator-io-deobfuscator`](https://github.com/ben-sb/obfuscator-io-deobfuscator.git) | TypeScript | A deobfuscator for scripts obfuscated by Obfuscator.io | 2025-06-20 |
 | | | | |
 | **`TLS Fingerprinting`** | | | |
@@ -55,6 +56,7 @@
 | | | | |
 | **`Web Frameworks`** | | | |
 | [`scrapy`](https://github.com/scrapy/scrapy) | Python | Scrapy, a fast high-level web crawling & scraping framework for Python. | 2025-07-02 |
+new_row = f"| [`{repo_name}`]({repo_data['url']}) | {lang_text} | {repo_data['desc'] or ''} | {repo_data['last_updated'] or ''} |"
 
 
 <details>
