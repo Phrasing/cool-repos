@@ -28,6 +28,7 @@
 | [`ants`](https://github.com/panjf2000/ants) | Go | 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go. | 2025-04-12 |
 | [`go-graphql-client`](https://github.com/hasura/go-graphql-client) | Go | Package graphql provides a GraphQL client implementation. | 2025-06-20 |
 | [`proxy-checker`](https://github.com/seadhy/proxy-checker) | Python | Audits your proxies and saves them by categorizing them. | 2023-08-10 |
+| [`uv`](https://github.com/astral-sh/uv) | Rust | An extremely fast Python package and project manager, written in Rust. | 2025-07-04 |
 | [`yellowstone-grpc-client`](https://github.com/manudeobs/yellowstone-grpc-client) | Rust |  | 2025-05-23 |
 | | | | |
 | **`Other Curated Lists`** | | | |
@@ -44,7 +45,7 @@
 | [`adyen-risk`](https://github.com/AzureFlow/adyen-risk) | JavaScript | Generates Ayden's device fingerprint (dfValue). | 2024-03-24 |
 | [`adyen_df_python`](https://github.com/benastahl/adyen_df_python) | Python | Generates Adyen device fingerprint | 2024-04-30 |
 | [`Chromium_FingerPrint_Tutorial`](https://github.com/xiaoweigege/Chromium_FingerPrint_Tutorial) |  | Chromium指纹浏览器开发教程，帮助你了解Chromium内核，并且开发出一套基础的指纹浏览器。 | 2025-06-04 |
-| [`tls-client`](https://github.com/bogdanfinn/tls-client) | Go | net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.  | 2025-06-17 |
+| [`tls-client`](https://github.com/bogdanfinn/tls-client) | Go | net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. | 2025-06-17 |
 | | | | |
 | **`Web Automation`** | | | |
 | [`discord-server-cloner`](https://github.com/xKiian/discord-server-cloner) | Python | scrape a whole discord server in seconds (with every channel, every role and every emoji) | 2023-06-04 |
@@ -57,6 +58,8 @@
 | | | | |
 | **`Web Frameworks`** | | | |
 | [`scrapy`](https://github.com/scrapy/scrapy) | Python | Scrapy, a fast high-level web crawling & scraping framework for Python. | 2025-07-02 |
+| [`{name}`]({url}) | {lang} | {desc} | {date} |
+| [`{repo_name}`]({repo_data['url']}) | {lang_text} | {repo_data['desc'] or ''} | {repo_data['last_updated'] or ''} |
 
 
 <details>
