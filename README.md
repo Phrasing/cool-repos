@@ -19,6 +19,7 @@
 | [`OxyMouse`](https://github.com/xiaoweigege/OxyMouse) | Python | Mouse Movement Algorithms | 2024-09-25 |
 | [`perimeterx-utils-go`](https://github.com/incizzle/perimeterx-utils-go) | Go | Helper functions for perimeterx | 2021-03-13 |
 | [`PerimiterXCudaSolver`](https://github.com/re-jevi/PerimiterXCudaSolver) | Cuda | Solver for perimiterX PoW in cuda to allow faster solving | 2025-05-17 |
+| [`puppeteer-with-fingerprints`](https://github.com/CheshireCaat/puppeteer-with-fingerprints) | JavaScript | Anonymous automation via puppeteer with fingerprint replacement technology. | 2025-06-16 |
 | [`px-grubhub-mobile`](https://github.com/obfio/px-grubhub-mobile) | Go | PX SDK API in golang made for my blog at https://antibot.blog | 2023-09-02 |
 | [`px-mobile-api`](https://github.com/AzureFlow/px-mobile-api) | TypeScript | Multi-version PX Mobile solver. | 2024-03-16 |
 | [`reese84-rs`](https://github.com/manudeobs/reese84-rs) | Rust |  | 2025-04-24 |
@@ -56,13 +57,13 @@
 | [`Chromium_FingerPrint_Tutorial`](https://github.com/xiaoweigege/Chromium_FingerPrint_Tutorial) |  | Chromium指纹浏览器开发教程，帮助你了解Chromium内核，并且开发出一套基础的指纹浏览器。 | 2025-06-04 |
 | [`creepjs`](https://github.com/abrahamjuliot/creepjs) | TypeScript | Creepy device and browser fingerprinting | 2025-05-01 |
 | [`nginx-ssl-ja3`](https://github.com/fooinha/nginx-ssl-ja3) | C | nginx module for SSL/TLS ja3 fingerprint. | 2025-03-21 |
-| [`tls-client`](https://github.com/bogdanfinn/tls-client) | Go | net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.  | 2025-06-17 |
+| [`tls-client`](https://github.com/bogdanfinn/tls-client) | Go | net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. | 2025-06-17 |
 | | | | |
 | **`Web Automation`** | | | |
 | [`discord-server-cloner`](https://github.com/xKiian/discord-server-cloner) | Python | scrape a whole discord server in seconds (with every channel, every role and every emoji) | 2023-06-04 |
 | [`github-profile-views-booster`](https://github.com/seadhy/github-profile-views-booster) | Python | Github profile counter booster built using python and the httpx module. | 2023-08-10 |
 | [`Haven-AIO`](https://github.com/Slikcodez/Haven-AIO) | Go | Haven AIO is a request based Hibbett bot in Golang. It has allowed users to secure hundreds of sneakers swiftly during drops and restocks. It was developed by primarily @Slikcodez, but also @cyrusnaficy and @StefanAraujo contributed | 2023-05-08 |
-| [`MediaCrawler`](https://github.com/NanmiCoder/MediaCrawler) | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫 | 2025-07-04 |
+| [`MediaCrawler`](https://github.com/NanmiCoder/MediaCrawler) | Python | 小红书笔记 | 评论爬虫、抖音视频 |
 | [`ResyBot`](https://github.com/TCWTEAM/ResyBot) | Python | Resy Bot with captcha bypass, proxy support, no rate-limiting | 2024-12-29 |
 | | | | |
 | **`Web Frameworks`** | | | |
