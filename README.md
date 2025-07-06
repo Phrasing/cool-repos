@@ -65,6 +65,7 @@
 | [`Haven-AIO`](https://github.com/Slikcodez/Haven-AIO) | Go | Haven AIO is a request based Hibbett bot in Golang. It has allowed users to secure hundreds of sneakers swiftly during drops and restocks. It was developed by primarily @Slikcodez, but also @cyrusnaficy and @StefanAraujo contributed | 2023-05-08 |
 | [`MediaCrawler`](https://github.com/NanmiCoder/MediaCrawler) | Python | 小红书笔记 | 评论爬虫、抖音视频 |
 | [`ResyBot`](https://github.com/TCWTEAM/ResyBot) | Python | Resy Bot with captcha bypass, proxy support, no rate-limiting | 2024-12-29 |
+| [`stagehand`](https://github.com/browserbase/stagehand) | TypeScript | The AI Browser Automation Framework | 2025-07-05 |
 | | | | |
 | **`Web Frameworks`** | | | |
 | [`scrapy`](https://github.com/scrapy/scrapy) | Python | Scrapy, a fast high-level web crawling & scraping framework for Python. | 2025-07-06 |
