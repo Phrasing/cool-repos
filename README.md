@@ -18,8 +18,8 @@
 | [`human_mouse`](https://github.com/sarperavci/human_mouse) | Python | 🎯 Ultra-realistic human mouse movements using bezier curves and spline interpolation. Natural cursor automation. | 2025-05-01 |
 | [`kick-unofficial-api`](https://github.com/sarperavci/kick-unofficial-api.git) | Python | 🛡️ Unofficial Kick.com API wrapper with automatic bypass protection. | 2025-01-27 |
 | [`OxyMouse`](https://github.com/xiaoweigege/OxyMouse) | Python | Mouse Movement Algorithms | 2024-09-25 |
-| [`patchright-nodejs`](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs) | JavaScript | Undetected NodeJS version of the Playwright testing and automation library.  | 2025-06-06 |
-| [`patchright-python`](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python) | Python | Undetected Python version of the Playwright testing and automation library.  | 2025-06-06 |
+| [`patchright-nodejs`](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs) | JavaScript | Undetected NodeJS version of the Playwright testing and automation library. | 2025-06-06 |
+| [`patchright-python`](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python) | Python | Undetected Python version of the Playwright testing and automation library. | 2025-06-06 |
 | [`perimeterx-utils-go`](https://github.com/incizzle/perimeterx-utils-go) | Go | Helper functions for perimeterx | 2021-03-13 |
 | [`PerimiterXCudaSolver`](https://github.com/re-jevi/PerimiterXCudaSolver) | Cuda | Solver for perimiterX PoW in cuda to allow faster solving | 2025-05-17 |
 | [`puppeteer-with-fingerprints`](https://github.com/CheshireCaat/puppeteer-with-fingerprints) | JavaScript | Anonymous automation via puppeteer with fingerprint replacement technology. | 2025-06-16 |
@@ -66,6 +66,7 @@
 | [`nginx-ssl-ja3`](https://github.com/fooinha/nginx-ssl-ja3) | C | nginx module for SSL/TLS ja3 fingerprint. | 2025-03-21 |
 | [`tls-client`](https://github.com/bogdanfinn/tls-client) | Go | net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. | 2025-06-17 |
 | [`tls-client-api`](https://github.com/bogdanfinn/tls-client-api) | Go | This is an application which is using gosoline and TLS-Client to run a simple request forwarding service with the option to use specific tls fingerprints which are implemented in TLS-client | 2025-06-17 |
+| [`tls-scan`](https://github.com/prbinu/tls-scan) | C | An Internet scale, blazing fast SSL/TLS scanner ( non-blocking, event-driven ) | 2024-11-22 |
 | | | | |
 | **`Web Automation`** | | | |
 | [`discord-server-cloner`](https://github.com/xKiian/discord-server-cloner) | Python | scrape a whole discord server in seconds (with every channel, every role and every emoji) | 2023-06-04 |
