@@ -49,6 +49,7 @@
 | [`Imperva-Reverse`](https://github.com/botswin/Imperva-Reverse) | JavaScript |  | 2025-07-04 |
 | [`obfuscator-io-deobfuscator`](https://github.com/ben-sb/obfuscator-io-deobfuscator.git) | TypeScript | A deobfuscator for scripts obfuscated by Obfuscator.io | 2025-06-20 |
 | [`trickster.dev-code`](https://github.com/rl1987/trickster.dev-code) | Python |  | 2025-06-14 |
+| [`webcrack`](https://github.com/j4k0xb/webcrack) | TypeScript | Deobfuscate obfuscator.io, unminify and unpack bundled javascript | 2025-07-02 |
 | | | | |
 | **`TLS Fingerprinting`** | | | |
 | [`adyen-risk`](https://github.com/AzureFlow/adyen-risk) | JavaScript | Generates Ayden's device fingerprint (dfValue). | 2024-03-24 |
