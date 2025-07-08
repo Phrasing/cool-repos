@@ -59,6 +59,7 @@
 | [`burp-awesome-tls`](https://github.com/sleeyax/burp-awesome-tls) | Java | Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser. | 2025-07-06 |
 | [`Chromium_FingerPrint_Tutorial`](https://github.com/xiaoweigege/Chromium_FingerPrint_Tutorial) |  | Chromium指纹浏览器开发教程，帮助你了解Chromium内核，并且开发出一套基础的指纹浏览器。 | 2025-06-04 |
 | [`creepjs`](https://github.com/abrahamjuliot/creepjs) | TypeScript | Creepy device and browser fingerprinting | 2025-05-01 |
+| [`nginx-ssl-fingerprint`](https://github.com/phuslu/nginx-ssl-fingerprint) | C | High performance  ja3 and http2 fingerprint for nginx. | 2025-05-21 |
 | [`nginx-ssl-ja3`](https://github.com/fooinha/nginx-ssl-ja3) | C | nginx module for SSL/TLS ja3 fingerprint. | 2025-03-21 |
 | [`tls-client`](https://github.com/bogdanfinn/tls-client) | Go | net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. | 2025-06-17 |
 | | | | |
