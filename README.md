@@ -8,6 +8,7 @@
 | **`Anti-Bot Bypass`** | | | |
 | [`Akamai`](https://github.com/i7solar/Akamai) | Go | Akamai 1.75 Cookie Generator for _abck and ak_bmsc | 2023-05-23 |
 | [`akamai2.0-sensor_data`](https://github.com/xiaoweigege/akamai2.0-sensor_data) | JavaScript | sensor_data, akamai-bm-telemetry, _abck bypass | 2025-06-24 |
+| [`CDP-Patches`](https://github.com/Kaliiiiiiiiii-Vinyzu/CDP-Patches) | Python | Patching CDP (Chrome DevTools Protocol) leaks on OS level. Easy to use with Playwright, Selenium, and other web automation tools. | 2024-08-19 |
 | [`chrome-recaptcha-harvester`](https://github.com/benastahl/chrome-recaptcha-harvester) | Python | Chrome Recaptcha Harvester supporting V2 and V3 | 2025-06-17 |
 | [`Cloudflare-Cookie-Bypass`](https://github.com/seadhy/Cloudflare-Cookie-Bypass) | Python | Cloudflare __cf_bm cookie ( currently called cf_clearance ) bypass | 2025-05-06 |
 | [`cloudflare-invisible-solver`](https://github.com/notemrovsky/cloudflare-invisible-solver.git) | Python | cloudflare invisible challenge solver | 2025-05-12 |
@@ -17,6 +18,8 @@
 | [`human_mouse`](https://github.com/sarperavci/human_mouse) | Python | 🎯 Ultra-realistic human mouse movements using bezier curves and spline interpolation. Natural cursor automation. | 2025-05-01 |
 | [`kick-unofficial-api`](https://github.com/sarperavci/kick-unofficial-api.git) | Python | 🛡️ Unofficial Kick.com API wrapper with automatic bypass protection. | 2025-01-27 |
 | [`OxyMouse`](https://github.com/xiaoweigege/OxyMouse) | Python | Mouse Movement Algorithms | 2024-09-25 |
+| [`patchright-nodejs`](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs) | JavaScript | Undetected NodeJS version of the Playwright testing and automation library.  | 2025-06-06 |
+| [`patchright-python`](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python) | Python | Undetected Python version of the Playwright testing and automation library.  | 2025-06-06 |
 | [`perimeterx-utils-go`](https://github.com/incizzle/perimeterx-utils-go) | Go | Helper functions for perimeterx | 2021-03-13 |
 | [`PerimiterXCudaSolver`](https://github.com/re-jevi/PerimiterXCudaSolver) | Cuda | Solver for perimiterX PoW in cuda to allow faster solving | 2025-05-17 |
 | [`puppeteer-with-fingerprints`](https://github.com/CheshireCaat/puppeteer-with-fingerprints) | JavaScript | Anonymous automation via puppeteer with fingerprint replacement technology. | 2025-06-16 |
@@ -62,6 +65,7 @@
 | [`nginx-ssl-fingerprint`](https://github.com/phuslu/nginx-ssl-fingerprint) | C | High performance  ja3 and http2 fingerprint for nginx. | 2025-05-21 |
 | [`nginx-ssl-ja3`](https://github.com/fooinha/nginx-ssl-ja3) | C | nginx module for SSL/TLS ja3 fingerprint. | 2025-03-21 |
 | [`tls-client`](https://github.com/bogdanfinn/tls-client) | Go | net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. | 2025-06-17 |
+| [`tls-client-api`](https://github.com/bogdanfinn/tls-client-api) | Go | This is an application which is using gosoline and TLS-Client to run a simple request forwarding service with the option to use specific tls fingerprints which are implemented in TLS-client | 2025-06-17 |
 | | | | |
 | **`Web Automation`** | | | |
 | [`discord-server-cloner`](https://github.com/xKiian/discord-server-cloner) | Python | scrape a whole discord server in seconds (with every channel, every role and every emoji) | 2023-06-04 |
