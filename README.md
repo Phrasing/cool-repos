@@ -8,6 +8,7 @@
 | **`Anti-Bot Bypass`** | | | |
 | [`Akamai`](https://github.com/i7solar/Akamai) | Go | Akamai 1.75 Cookie Generator for _abck and ak_bmsc | 2023-05-23 |
 | [`akamai2.0-sensor_data`](https://github.com/xiaoweigege/akamai2.0-sensor_data) | JavaScript | sensor_data, akamai-bm-telemetry, _abck bypass | 2025-06-24 |
+| [`browser-with-fingerprints`](https://github.com/bablosoft/browser-with-fingerprints) | JavaScript | Anonymous automation with fingerprint replacement technology. | 2025-07-10 |
 | [`CDP-Patches`](https://github.com/Kaliiiiiiiiii-Vinyzu/CDP-Patches) | Python | Patching CDP (Chrome DevTools Protocol) leaks on OS level. Easy to use with Playwright, Selenium, and other web automation tools. | 2024-08-19 |
 | [`chrome-recaptcha-harvester`](https://github.com/benastahl/chrome-recaptcha-harvester) | Python | Chrome Recaptcha Harvester supporting V2 and V3 | 2025-06-17 |
 | [`Cloudflare-Cookie-Bypass`](https://github.com/seadhy/Cloudflare-Cookie-Bypass) | Python | Cloudflare __cf_bm cookie ( currently called cf_clearance ) bypass | 2025-05-06 |
