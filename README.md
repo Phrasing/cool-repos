@@ -46,6 +46,7 @@
 | **`Other Curated Lists`** | | | |
 | [`awesome-reversing`](https://github.com/tylerha97/awesome-reversing) |  | A curated list of awesome reversing resources | 2023-08-19 |
 | [`awesome-web-security`](https://github.com/qazbnm456/awesome-web-security) |  | 🐶 A curated list of Web Security materials and resources. | 2025-05-02 |
+| [`the-book-of-secret-knowledge`](https://github.com/trimstray/the-book-of-secret-knowledge) |  | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | 2024-11-19 |
 | | | | |
 | **`Reverse Engineering`** | | | |
 | [`Akamai-2.0-Deobfuscator`](https://github.com/manudeobs/Akamai-2.0-Deobfuscator) | JavaScript |  | 2023-12-03 |
