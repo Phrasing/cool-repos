@@ -53,6 +53,7 @@
 | [`akamai-sensor-data-tools`](https://github.com/klenne/akamai-sensor-data-tools) | JavaScript | This repository serves as a comprehensive resource for my studies of akamai solutions. | 2024-11-09 |
 | [`hooker`](https://github.com/CreditTone/hooker) | JavaScript | 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps. | 2025-07-04 |
 | [`Imperva-Reverse`](https://github.com/botswin/Imperva-Reverse) | JavaScript |  | 2025-07-04 |
+| [`Integuru`](https://github.com/Integuru-AI/Integuru) | Python | The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs. | 2025-02-13 |
 | [`obfuscator-io-deobfuscator`](https://github.com/ben-sb/obfuscator-io-deobfuscator.git) | TypeScript | A deobfuscator for scripts obfuscated by Obfuscator.io | 2025-06-20 |
 | [`trickster.dev-code`](https://github.com/rl1987/trickster.dev-code) | Python |  | 2025-06-14 |
 | [`webcrack`](https://github.com/j4k0xb/webcrack) | TypeScript | Deobfuscate obfuscator.io, unminify and unpack bundled javascript | 2025-07-02 |
