@@ -15,6 +15,7 @@
 | [`cloudflare-invisible-solver`](https://github.com/notemrovsky/cloudflare-invisible-solver.git) | Python | cloudflare invisible challenge solver | 2025-05-12 |
 | [`cloudflare-jsd`](https://github.com/xKiian/cloudflare-jsd) | JavaScript | Bypass Cloudflare's /h/b/jsd challenge using 100% python | 2025-06-27 |
 | [`CloudflareBypassForScraping`](https://github.com/sarperavci/CloudflareBypassForScraping) | Python | A cloudflare verification bypass script for webscraping | 2025-05-22 |
+| [`ghost-cursor-playwright`](https://github.com/reaz1995/ghost-cursor-playwright) | TypeScript | Modification of actual ghost-cursor for puppeteer, with more functionality and rewrited to work well with playwight. | 2023-12-10 |
 | [`GoogleRecaptchaBypass`](https://github.com/sarperavci/GoogleRecaptchaBypass) | Python | Solve Google reCAPTCHA in less than 5 seconds! 🚀 | 2025-06-12 |
 | [`human_mouse`](https://github.com/sarperavci/human_mouse) | Python | 🎯 Ultra-realistic human mouse movements using bezier curves and spline interpolation. Natural cursor automation. | 2025-05-01 |
 | [`kick-unofficial-api`](https://github.com/sarperavci/kick-unofficial-api.git) | Python | 🛡️ Unofficial Kick.com API wrapper with automatic bypass protection. | 2025-01-27 |
