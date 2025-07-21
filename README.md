@@ -37,6 +37,7 @@
 | [`context-engineering-intro`](https://github.com/coleam00/context-engineering-intro) |  | Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant! | 2025-07-02 |
 | [`go-graphql-client`](https://github.com/hasura/go-graphql-client) | Go | Package graphql provides a GraphQL client implementation. | 2025-06-20 |
 | [`lru`](https://github.com/phuslu/lru) | Go | High performance LRU cache | 2025-02-04 |
+| [`pogocache`](https://github.com/tidwall/pogocache) | C | Fast caching software with a focus on low latency and cpu efficiency. | 2025-07-21 |
 | [`proxy-checker`](https://github.com/seadhy/proxy-checker) | Python | Audits your proxies and saves them by categorizing them. | 2023-08-10 |
 | [`ruff`](https://github.com/astral-sh/ruff) | Rust | An extremely fast Python linter and code formatter, written in Rust. | 2025-07-05 |
 | [`rye`](https://github.com/astral-sh/rye) | Rust | a Hassle-Free Python Experience | 2025-07-03 |
